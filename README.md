@@ -7,6 +7,6 @@
 -->
 <p align="center">
   <a href="https://github.com/alohaninja">
-    <img width="1275" height="720" alt="github-wallpaper-alohaninja-desktop" src="https://github.com/user-attachments/assets/9b8c33ab-f30c-4e24-86d2-e31d6a367257" />
+    <img width="1275" height="720" alt="github-wallpaper-alohaninja-desktop" src="https://github.com/user-attachments/assets/f0255b62-9246-4394-8c31-d050b0e91722" />
   </a>
 </p> 
