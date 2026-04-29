@@ -5,8 +5,9 @@
   </a>
 </p> 
 -->
+
 <p align="center">
   <a href="https://github.com/alohaninja">
-    <img width="1275" height="720" alt="github-wallpaper-alohaninja-desktop" src="https://github.com/user-attachments/assets/b0b73196-c593-495a-9dba-882b4122de13" />
+    <img width="1179" height="2556" alt="github-wallpaper-alohaninja-mobile" src="https://github.com/user-attachments/assets/1935158d-36f0-42b4-bae7-7ef7184a9d0b" />
   </a>
 </p> 
