@@ -6,8 +6,11 @@
 </p> 
 -->
 
+
+
+
 <p align="center">
   <a href="https://github.com/alohaninja">
-    <img width="1179" height="2556" alt="github-wallpaper-alohaninja-mobile" src="https://github.com/user-attachments/assets/1935158d-36f0-42b4-bae7-7ef7184a9d0b" />
+    <img width="640" height="360" alt="github-wallpaper-alohaninja-desktop (4) Medium" src="https://github.com/user-attachments/assets/4f8c817b-c4e8-41d4-8d4a-3b2a9c82d528" />
   </a>
 </p> 
