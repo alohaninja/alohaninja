@@ -1,3 +1,4 @@
+
 <!--
 <p align="center">
   <a href="https://github.com/alohaninja">
@@ -11,6 +12,6 @@
 
 <p align="center">
   <a href="https://github.com/alohaninja">
-    <img width="1280" height="720" alt="github-wallpaper-alohaninja-desktop (4) Large" src="https://github.com/user-attachments/assets/11e8d179-ea5b-4126-adca-d8d1fca1696d" />
+    <img width="1280" height="720" alt="github-wallpaper-alohaninja-desktop" src="https://github.com/user-attachments/assets/faf39c86-a70a-4d1c-a312-d5ee42cc05dd" />
   </a>
 </p> 
